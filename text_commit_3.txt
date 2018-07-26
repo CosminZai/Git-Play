@@ -1,1 +1,3 @@
 Third text added here 
+
+Another text here to demonstrate test : git diff --staged;
