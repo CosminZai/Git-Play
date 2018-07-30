@@ -1,0 +1,53 @@
+[33mcommit ca28e0143fad0df9cebca35d277a4753c03498c2[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Thu Jul 26 13:33:30 2018 +0300
+
+    rename  test_commit_07.2018.txt -> first_test_07.2018.txt
+
+[33mcommit a2f87cba9962726a8b2bf34adc0b24acac824463[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Thu Jul 26 12:44:23 2018 +0300
+
+    this is the point in time where I deleted text_commit_3.txt
+
+[33mcommit 2649e34f267c3349df2ad307a18ea15d5a428c66[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Thu Jul 26 11:48:52 2018 +0300
+
+    changes to test git diff --staged
+
+[33mcommit b9e365e6f1eacd276145c164caf2e1637f555b36[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Thu Jul 26 11:28:32 2018 +0300
+
+    some changes. two files added
+
+[33mcommit f438c2ad1e41848fddbd8c706add4aa47d0d8ed8[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Thu Jul 26 11:14:41 2018 +0300
+
+    am adaugat 2 randuri in text_commit_2.txt
+
+[33mcommit 98c982292c3e85f897f30d53de1ad11b224b6cbe[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Thu Jul 26 09:52:07 2018 +0300
+
+    I modify the first file
+
+[33mcommit 63cabeeb8f4b1df77675216df0e4fcd2ccc8d839[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Thu Jul 26 09:45:00 2018 +0300
+
+    the third file is committed - test 3
+
+[33mcommit 26cb6fb860430cc49db317156244cb4b40dc0702[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Wed Jul 25 23:48:59 2018 +0300
+
+     second Test
+
+[33mcommit 4d1f4f0468013214ac953fd12c267d786b34d4cf[m
+Author: Cosmin <cosminroller@gmail.com>
+Date:   Wed Jul 25 19:19:10 2018 +0300
+
+    My text in my first commit
